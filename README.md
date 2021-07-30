@@ -13,4 +13,8 @@ Easy to use:
 
 This git repo is all about the AI server side
 
+<img src="https://github.com/Yogranov/Betterlife-AI/blob/master/README_MEDIA/anim.gif" width="600" height="310" />
+
+
+
 Good luck!
