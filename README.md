@@ -1,7 +1,7 @@
-Betterlife system allow you to check in real time skin moles.
+Betterlife system allow you to check in real time skin moles. <br>
 The system have an AI that trained on 10K photos.
 
-It's not just AI, your photos will diagnose by real doctors,
+It's not just AI, your photos will diagnose by real doctors, <br>
 you will be notify when the mole was check by one of the doctors.
 
 
